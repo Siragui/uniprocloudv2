@@ -1,0 +1,24 @@
+.maincontainer{
+    background-image: url("../assets/img/bg-unipro2.png") ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
+
+}
+nav{
+    color: rgb(8, 1, 51) ;
+}
+.container1{
+    background-color: pink;
+    color: rgb(8, 1, 51);
+    /* color: white; */
+}
+.navmain{
+    margin: 10px 20px;
+}
+.nav1{
+    margin: 0 20px;
+}
